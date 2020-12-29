@@ -1,4 +1,4 @@
-# uzi
+# Uzi
 Chrome extension to generate random strings, given specific criteria, and copy them to clipboard.
 <h2>Installation:</h2>
 <ol>
