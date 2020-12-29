@@ -10,8 +10,6 @@
 
 <h2>Usage:</h2>
 
-![alt text](https://github.com/KomboAmina/uzi/blob/main/Uzi-Screenshot-1.jpg)
-
 ![alt text](https://github.com/KomboAmina/uzi/blob/main/Uzi-Screenshot-2.jpg)
 
 <ol>
