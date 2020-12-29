@@ -12,6 +12,8 @@
 
 ![alt text](https://github.com/KomboAmina/uzi/blob/main/Uzi-Screenshot-1.jpg)
 
+![alt text](https://github.com/KomboAmina/uzi/blob/main/Uzi-Screenshot-2.jpg)
+
 <ol>
 	<li>Click the "uzi" icon in the browser toolbar.</li>
 	<li>Select a length and stringbase. The default is "3", and "all", respectively. Generation happens automatically when either is changed.</li>
