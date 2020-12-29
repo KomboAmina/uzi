@@ -1,4 +1,5 @@
 # Uzi
+![alt text](https://github.com/KomboAmina/uzi/blob/main/Uzi Logo 1000-02.png?raw=true)
 Chrome extension to generate random strings, given specific criteria, and copy them to clipboard.
 <h2>Installation:</h2>
 <ol>
