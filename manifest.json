@@ -1,0 +1,15 @@
+{
+   "browser_action": {
+      "default_icon": "assets/img/logo 19.png",
+      "default_popup": "popup.html"
+   },
+   "description": "Generate random strings.",
+   "icons": {
+      "128": "assets/img/logo 128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAz8heLvelmL4wWiKlOJvfJgucjdHx9czuf6Sfovrls9I/AoHuljh6iLJIlht6RNc695YhngT+VPr7YwzSYJ4sXdMzK69IX/9JOMGdx5LgOVgIebhdVbub6g2z6vt8sna4+wHAkw9w5OgPg5TQZhYHFgrkqZrELj6Yh55wE/ulgHzjdFQOIJtcVhdlbHgukiXVKzI+rY62f0SFw40Sr6VW/AZYFqRCsvsYdjFm3PjJl1rd4aWH1ETzY9vTggP0YHhGzam9mUYxmayH/vSsj3mWaXsCcQV+lCsci0IDFbIJgq+EmL62iEBcLpsorAPvuQCIB1c1F1jIuYUwwZYGP/PDnQIDAQAB",
+   "manifest_version": 2,
+   "name": "Uzi",
+   "permissions": [ "activeTab" ],
+   "version": "1.0.0"
+}
