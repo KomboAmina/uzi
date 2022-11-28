@@ -10,7 +10,7 @@
 
 <h2>Usage:</h2>
 
-![alt text](https://github.com/KomboAmina/uzi/blob/main/Uzi-Screenshot-2.jpg)
+![alt text](https://github.com/KomboAmina/uzi/blob/main/uzi-1.2.png)
 
 <ol>
 	<li>Click the "uzi" icon in the browser toolbar.</li>
