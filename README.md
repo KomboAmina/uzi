@@ -3,7 +3,7 @@
 <p>Chrome extension to generate random strings, given specific criteria, and copy them to clipboard.</p>
 <h2>Installation:</h2>
 <ol>
-	<li>download the uzi-1.0.0 crx file, </li>
+	<li>download the uzi-1.2.0 crx file, </li>
 	<li>right-click, choose "open" in your browser of choice. The extension manager should appear.</li>
 	<li>Choose "install".</li>
 </ol><hr />
